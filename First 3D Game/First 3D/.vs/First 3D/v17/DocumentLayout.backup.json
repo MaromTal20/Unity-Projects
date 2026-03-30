@@ -3,15 +3,11 @@
   "WorkspaceRootPath": "C:\\Unity Projects\\First 3D Game\\First 3D\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6B05E704-EFBC-4F3F-00D3-B6025B6BFCC9}|Assembly-CSharp.csproj|c:\\unity projects\\first 3d game\\first 3d\\assets\\scripts\\stickyground.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6B05E704-EFBC-4F3F-00D3-B6025B6BFCC9}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\stickyground.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6B05E704-EFBC-4F3F-00D3-B6025B6BFCC9}|Assembly-CSharp.csproj|c:\\unity projects\\first 3d game\\first 3d\\assets\\scripts\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6B05E704-EFBC-4F3F-00D3-B6025B6BFCC9}|Assembly-CSharp.csproj|C:\\Unity Projects\\First 3D Game\\First 3D\\assets\\scripts\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6B05E704-EFBC-4F3F-00D3-B6025B6BFCC9}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6B05E704-EFBC-4F3F-00D3-B6025B6BFCC9}|Assembly-CSharp.csproj|C:\\Unity Projects\\First 3D Game\\First 3D\\assets\\scripts\\objectsmovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6B05E704-EFBC-4F3F-00D3-B6025B6BFCC9}|Assembly-CSharp.csproj|c:\\unity projects\\first 3d game\\first 3d\\assets\\scripts\\objectsmovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6B05E704-EFBC-4F3F-00D3-B6025B6BFCC9}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\objectsmovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -22,24 +18,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "StickyGround.cs",
-              "DocumentMoniker": "C:\\Unity Projects\\First 3D Game\\First 3D\\Assets\\Scripts\\StickyGround.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\StickyGround.cs",
-              "ToolTip": "C:\\Unity Projects\\First 3D Game\\First 3D\\Assets\\Scripts\\StickyGround.cs",
-              "RelativeToolTip": "Assets\\Scripts\\StickyGround.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA7AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-30T02:42:14.755Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "ObjectsMovement.cs",
               "DocumentMoniker": "C:\\Unity Projects\\First 3D Game\\First 3D\\Assets\\Scripts\\ObjectsMovement.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\ObjectsMovement.cs",
@@ -47,11 +30,12 @@
               "RelativeToolTip": "Assets\\Scripts\\ObjectsMovement.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-30T02:02:49.472Z"
+              "WhenOpened": "2026-03-30T02:02:49.472Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "PlayerMovement.cs",
               "DocumentMoniker": "C:\\Unity Projects\\First 3D Game\\First 3D\\Assets\\Scripts\\PlayerMovement.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerMovement.cs",
