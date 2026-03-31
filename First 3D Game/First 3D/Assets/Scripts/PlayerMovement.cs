@@ -9,7 +9,7 @@ public class PlayerMovement : MonoBehaviour
     float ground;
     [SerializeField] Transform grounded;
     [SerializeField] LayerMask Ground;
-    [SerializeField] float movingSpeed = 5f;
+    [SerializeField] float movingSpeed = 3.5f;
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
@@ -44,19 +44,10 @@ public class PlayerMovement : MonoBehaviour
             rd.linearVelocity = new Vector3(movingSpeed, rd.linearVelocity.y, rd.linearVelocity.z);
         }
 
-        gameOver();
     }
 
     bool isGrounded()
     {
         return Physics.CheckSphere(grounded.position, 0.1f, Ground);
-    }
-
-    void gameOver()
-    {
-        if (transform.position.y < -4)
-        {
-            SceneManager.LoadScene(SceneManager.GetActiveScene().name);
-        }
     }
 }
